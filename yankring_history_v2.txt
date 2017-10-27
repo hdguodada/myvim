@@ -1,0 +1,4 @@
+"" 设置leaderlet mapleader = ',',V
+" Fisa-nvim-config" http://nvim.fisadev.com" version: 10.0" TODO current problems:" * end key not working undef tmux+fish" ============================================================================" Vim-plug initialization" Avoid modify this section, unless you are very sure of what you are doing" ,V
+" 修改leader键let mapleader = ','let g:mapleader = ',',V
+from django.contrib,V
